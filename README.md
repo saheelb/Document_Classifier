@@ -13,8 +13,6 @@ Document classification or document categorization is a problem in library scien
 - alt.atheism
 
 # Demo
-Made a streamlit web app.Here is the link for the application : https://share.streamlit.io/dikshabhati1/document-classifier/main/DocApp.py<br>
-Demo for the app<br>
 <br>
 <br>
 ![](images/streamlit1.jpeg)
